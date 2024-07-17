@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Development and MERN Stack**
 
-- 👨‍💻 All of my projects are available on [My Portfolio](https://myporfolio-mu.vercel.app/)
+- 👨‍💻 All of my projects are available on [My Portfolio](https://nehapokharkar-dev.vercel.app/)
 
 - 💬 Ask me about **React, Javascript, HTML, CSS, Tailwind CSS**
 
